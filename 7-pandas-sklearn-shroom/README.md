@@ -14,5 +14,5 @@ The dataset link is available here: https://www.kaggle.com/uciml/mushroom-classi
 To import the csv in code, you can use 
 ```py
 import pandas as pd
-df = pd.read_csv()
+df = pd.read_csv("https://raw.githubusercontent.com/marianopolis-ai/workshop-code/master/7-pandas-sklearn-shroom/mushrooms.csv")
 ```
